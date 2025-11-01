@@ -1,4 +1,4 @@
-<br><h1 align="center">Networking: DNS Servers, Caches, and CNAMEs</br>
+<br><h1 align="center">Networking:CNAMEs, DNS Servers & Caches</br>
 <br>
 <img src="https://www.sectorlink.com/img/blog/dns-servers.png" alt="isaiahmurphy" height="300" width="300"/></br>
 </h1>
