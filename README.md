@@ -13,7 +13,7 @@ We'll be testing the DNS resolution process through a virtual Windows OS. This O
 
 - <b>Command Prompt</b>
 
-- <b>DNS Managery</b>
+- <b>DNS Manager</b>
 
 </p>
 
