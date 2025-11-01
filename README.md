@@ -2,7 +2,7 @@
 <br>
 <img src="https://www.sectorlink.com/img/blog/dns-servers.png" alt="isaiahmurphy" height="300" width="300"/></br>
 </h1>
-In this lab, we'll be testing the fetching process of DNS caches through a virtual Windows OS.
+We'll be testing the DNS resolution process through a virtual Windows OS. This OS will be communicating with a separate, preconfigured Windows Server VM which contains a domain we can access through its Active Directory and primarily DNS Manager for this experiment. When a mapping is requested from a host, the host first checks for the domain mapping in its DNS cache, being that it's the fastest method to retrieve it. Then, it checks in its local hosts file (this is the second fastest way). And finally, it checks its local DNS server. For this test, we'll use a new host within the Windows Server domain, assign it an ip address (which we will change again later), and use a variety of networking commands to fetch and observe results from our virtual Windows OS. Understanding the resolution process will help to identify where queries could fail, and allow you to utilize networking commands to troubleshoot and potentially resolve them.
 <br/>
 
 
