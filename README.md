@@ -53,7 +53,81 @@ We'll be testing the DNS resolution process through a virtual Windows OS. This O
 <h2>Creating Resources</h2>
 
 </p>
-Create a resource group within Azure. This will be used to store both virtual machines once they're created.
-<br><img src="https://github.com/user-attachments/assets/a8f2c340-ec7a-4168-a111-8d9148e19f78" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
 <br/>
 </p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/cc36cccf-2a10-4ea4-9eeb-a97fb829aec5" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+</p>
+We're first starting out within the Windows client OS. Here, I ran ping mainframe to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
+<br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
+<br/>
+</p>
+
+Outdated DNS caches are a common network connectivity roadblock in real-world IT scenarios. Using both your knowledge of the DNS resolution process and OS networking commands, you have the tools to be able to figure out many common networking issues end-users face.
