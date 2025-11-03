@@ -109,4 +109,4 @@ Ping the alias you created from the Windows 10 client again to observe changes. 
 <br/>
 </p>
 
-Outdated DNS caches are a common network connectivity roadblock in real-world IT scenarios. Using both your knowledge of the DNS resolution process and OS networking commands, you have the tools to be able to figure out many common networking issues end-users face.
+Outdated DNS caches are a network connectivity roadblock in real-world IT scenarios. Using both your knowledge of the DNS resolution process and OS networking commands, you have the tools to be able to figure out many common networking issues end-users face.
