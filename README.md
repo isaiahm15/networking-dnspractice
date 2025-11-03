@@ -46,7 +46,7 @@ We'll be testing the DNS resolution process through a virtual Windows OS. This O
 
 </p>
 
-<h2 align="center">Altering a domain's original DNS mapping</h2>
+<h2 align="center">Outdated DNS mappings</h2>
 
 <p>We're first starting out within the Windows client OS. Here, I ran "<strong>ping</strong> mainframe" to confirm there is no domain created with this name yet- so next up is where we'll use this name to create a new host within our Window Server domain.
 <br><img src="https://github.com/user-attachments/assets/a0765680-752f-4647-8e95-ffbf361d5227" height="75%" width="100%"/>
